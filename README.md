@@ -1,6 +1,6 @@
 # CineBot — AI Movie Recommendation Chatbot
 
-CineBot is a multi-turn conversational movie recommender powered by the OpenAI API. Instead of returning a list from a single query, CineBot asks clarifying questions about your mood, genre preferences, available time, and streaming platform before making a personalized recommendation with an explanation.
+CineBot is a multi-turn conversational movie recommender powered by the OpenAI API. Instead of returning a list from a single query, CineBot asks clarifying questions about your mood, genre preferences, and streaming platform before making a personalized recommendation with an explanation.
 
 ---
 
