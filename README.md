@@ -13,8 +13,8 @@ CineBot is a multi-turn conversational movie recommender powered by the OpenAI A
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/ziongolem2/CPSC254FinalProject.git
+cd CPSC254FinalProject
 ```
 
 ### 2. Create and activate a virtual environment
