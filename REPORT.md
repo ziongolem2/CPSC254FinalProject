@@ -1,4 +1,4 @@
-## PART 1: ( What & why):
+  ## PART 1: ( What & why):
 - CineBot is a friendly conversational AI Powered Web App Chatbot that provides users with their own personalized movie reccomendations! Instead of being a generic search-engine like Chatbot that only takes a single line of input and returning a list of generalized movies, CineBot will engage with users in nantural multi-turn conversations. CineBot will ask users about their moods, prefered movie genre, and streaming platform, before it gives the user a movie recommendation with an explanation. The target audience is people who enjoy movies who tend to open any movie streaming platform, stare at the menu screen for 15 minutes, and close it without watching anything due to struggling to pick a film they think is worth their time!
 
   PART 2: (Iterations (≥3 versions, ~75–150 words each):
