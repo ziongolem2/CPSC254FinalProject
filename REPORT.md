@@ -12,6 +12,7 @@ Delta: The metric is the baseline with no before and after comparison. It has an
 Conclusion: Baseline, metric is neutral and I'm unsure how good or bad the model performs. 
 
 
+
 -- VERSION 2. --
 Change: I carefully constructed and implemented an additional new rule (Rule #5) into the system prompts for both 'app.py' and 'eval.py'. This rule states "As soon as you have enough information to make a relevant recommendation (genre/mood and streaming platform), immediately provide a recommendation and avoid asking unecessary follow-up questions. 
 
@@ -20,6 +21,7 @@ Motivating example: Though there were serveral failing cases (5 total) that moti
 Delta: Metric before: 68.4% (13/19). Metric After: → 94.7% (18/19)! Huge positive improvement of +26% increase in accuracy on the evaluation!
 
 Conclusion: After performing the system prompt changes, the metric significantly improved because 5 out of the 6 total failures were all being caused by the same core issue, in which the AI model (CineBot) would keep asking additional unecessary follow up questions despite already having the information it needed from the user to recommend a movie. By adding the new additional rule #5 to the system prompt, it pushed CineBot to immediately provide the user with a movie recommendaition as soon as it collected enough prefrence information from the user, and made it a clear stopping point expectation in the sytsem prompt. This prompt change directly fixed and turned those 5/6 failing cases into passes, as the expected output (movie recommendation with the user's preferences) was now satisified. For my next eval, I'm aiming to fix the last error, test case 013. The error appears to be caused by the AI model still asking an additional unecessary follow up question but for a different reason in this scenario.
+
 
 
 -- VERSION 3. --
