@@ -1,0 +1,214 @@
+{
+  "accuracy": 1.0,
+  "results": [
+    {
+      "id": "tc01",
+      "passed": true,
+      "details": {
+        "has_title": true,
+        "has_genre": true,
+        "has_platform": true,
+        "has_reasoning": true
+      },
+      "reply": "Great choice! I recommend **The Mitchells vs. The Machines**. \n\n**Genre:** Animated Comedy/Adventure\n\nThis film is a hilarious and absurd take on a family road trip that turns into a battle against a robot apocalypse. It\u2019s packed with quirky humor, vibrant animation, and a lot of heart, making it a perfect fit for your mood. Plus, it\u2019s available on Netflix, so you can dive right in!\n\nEnjoy your movie night!"
+    },
+    {
+      "id": "tc02",
+      "passed": true,
+      "details": {
+        "has_title": true,
+        "has_genre": true,
+        "has_platform": true,
+        "has_reasoning": true
+      },
+      "reply": "Great choice! I recommend **The Babadook**. \n\n**Genre:** Psychological Horror\n\nThis film dives deep into themes of grief and motherhood, creating a chilling atmosphere that lingers long after the credits roll. It\u2019s a masterclass in psychological tension, and I think you'll appreciate its depth and emotional resonance. Plus, it fits perfectly within your 2-hour timeframe!\n\nYou can find **The Babadook** on Hulu. Enjoy the scares!"
+    },
+    {
+      "id": "tc03",
+      "passed": true,
+      "details": {
+        "has_title": true,
+        "has_genre": true,
+        "has_platform": true,
+        "has_reasoning": true
+      },
+      "reply": "Great choice! I recommend **Casablanca**. \n\n**Genre:** Romance/Drama\n\nThis timeless classic beautifully captures the essence of love and sacrifice during World War II. With its iconic performances by Humphrey Bogart and Ingrid Bergman, it\u2019s a film that has resonated with audiences for generations. Plus, the romantic tension and memorable quotes make it a perfect pick for a classic romance night.\n\nYou can find **Casablanca** on HBO Max. Enjoy the film!"
+    },
+    {
+      "id": "tc04",
+      "passed": true,
+      "details": {
+        "has_title": true,
+        "has_genre": true,
+        "has_platform": true,
+        "has_reasoning": true
+      },
+      "reply": "Great choice! I recommend **\"Coherence\"**. \n\n**Genre:** Sci-Fi, Thriller\n\nThis film is a fascinating exploration of reality and relationships, centered around a dinner party that takes a surreal turn when a comet passes by. It\u2019s thought-provoking and keeps you on the edge of your seat as the characters grapple with strange occurrences and their implications. The film is low-budget but incredibly well-crafted, making it a true underrated gem in the sci-fi genre.\n\nYou can find it on **Prime Video**. Enjoy the mind-bending experience!"
+    },
+    {
+      "id": "tc05",
+      "passed": true,
+      "details": {
+        "has_title": true,
+        "has_genre": true,
+        "has_platform": true,
+        "has_reasoning": true
+      },
+      "reply": "Great choice! I recommend **Extraction**. \n\n**Genre:** Action/Thriller\n\nThis film is packed with intense action sequences and follows a black ops mercenary on a mission to rescue a kidnapped boy in Bangladesh. The stunts and fight choreography are top-notch, making it a thrilling ride from start to finish. Plus, it's available on Netflix, so you can dive right in!\n\nEnjoy the adrenaline rush! Let me know if you want more suggestions or if you have any other preferences!"
+    },
+    {
+      "id": "tc06",
+      "passed": true,
+      "details": {
+        "has_title": true,
+        "has_genre": true,
+        "has_platform": true,
+        "has_reasoning": true
+      },
+      "reply": "Awesome! I recommend **The Keepers**. \n\n**Genre:** True Crime Documentary Series\n\nThis gripping series delves into the unsolved murder of a nun and the secrets and scandals that surround it. It combines investigative journalism with personal stories, making it both compelling and emotional. Since you're in the mood for true crime and have Netflix, this series will definitely keep you on the edge of your seat!\n\nEnjoy watching! If you want more recommendations later, just let me know!"
+    },
+    {
+      "id": "tc07",
+      "passed": true,
+      "details": {
+        "has_title": true,
+        "has_genre": true,
+        "has_platform": true,
+        "has_reasoning": true
+      },
+      "reply": "Great choice! I recommend **The Princess and the Frog**. \n\n**Genre:** Animated Musical, Family\n\nThis film is a delightful blend of romance and adventure, featuring a strong female lead and a beautiful love story set in New Orleans. The animation is stunning, and the music is catchy and uplifting, making it perfect for a cozy date night. Plus, it has a lovely message about following your dreams and believing in love.\n\nYou can find it on **Disney+**. Enjoy your movie night!"
+    },
+    {
+      "id": "tc08",
+      "passed": true,
+      "details": {
+        "has_title": true,
+        "has_genre": true,
+        "has_platform": true,
+        "has_reasoning": true
+      },
+      "reply": "Great! Based on that, I recommend **Raya and the Last Dragon**. \n\n**Genre:** Animated, Adventure, Fantasy\n\nThis film is perfect for your kids' ages, featuring a strong female lead and a beautiful story about friendship, trust, and bravery. The animation is stunning, and it has plenty of action and humor to keep everyone entertained. Plus, it carries a positive message about unity and understanding, which is always nice for family viewing.\n\nYou can find it on Disney+. Enjoy your movie night!"
+    },
+    {
+      "id": "tc09",
+      "passed": true,
+      "details": {
+        "has_title": true,
+        "has_genre": true,
+        "has_platform": true,
+        "has_reasoning": true
+      },
+      "reply": "Got it! I recommend **The Fault in Our Stars**. \n\n**Genre:** Drama/Romance\n\nThis film beautifully captures the emotional journey of two teenagers who meet in a cancer support group. It's heartfelt and poignant, perfect for when you're in the mood to cry. The performances are incredibly moving, and it explores themes of love, loss, and the fragility of life, which might resonate with how you're feeling right now.\n\nYou can find it on Hulu. Enjoy your movie time, and let those emotions flow!"
+    },
+    {
+      "id": "tc10",
+      "passed": true,
+      "details": {
+        "has_title": true,
+        "has_genre": true,
+        "has_platform": true,
+        "has_reasoning": true
+      },
+      "reply": "Great choice! I recommend **The Pursuit of Happyness**. \n\n**Genre:** Biography, Drama\n\nThis film is based on the true story of Chris Gardner, who faces incredible challenges while trying to create a better life for himself and his son. It's an inspiring tale of perseverance and determination that really showcases the power of hope and hard work. Plus, it's available on Netflix, so you can easily watch it!\n\nI hope you enjoy it! Let me know what you think or if you'd like another suggestion!"
+    },
+    {
+      "id": "tc11",
+      "passed": true,
+      "details": {
+        "has_title": true,
+        "has_genre": true,
+        "has_platform": true,
+        "has_reasoning": true
+      },
+      "reply": "Sure! How about **The Invitation**? It's a tense psychological thriller that builds suspense beautifully, keeping you on the edge of your seat. The story revolves around a dinner party that takes a dark turn, and it really plays with themes of trust and paranoia. Plus, it's available on Netflix! Would you like to hear more about it?"
+    },
+    {
+      "id": "tc12",
+      "passed": true,
+      "details": {
+        "has_title": true,
+        "has_genre": true,
+        "has_platform": true,
+        "has_reasoning": true
+      },
+      "reply": "Got it! How about **Galaxy Quest**? It's a hilarious sci-fi comedy that parodies classic space adventures while delivering a fun and light-hearted story. It's perfect for a good laugh and is available on Prime Video. What do you think?"
+    },
+    {
+      "id": "tc13",
+      "passed": true,
+      "details": {
+        "has_title": true,
+        "has_genre": true,
+        "has_platform": true,
+        "has_reasoning": true
+      },
+      "reply": "Great choice! I recommend **\"Gerald's Game.\"** \n\n**Genre:** Thriller/Horror\n\nThis film is based on a Stephen King novel and offers a gripping psychological experience. It follows a woman who finds herself in a terrifying situation after a game with her husband goes horribly wrong. The tension builds as she confronts her past and fights for survival, making it a perfect pick for a thrilling night. Plus, it's available on Netflix, so you can dive right in!\n\nLet me know if you enjoy it or if you'd like another suggestion!"
+    },
+    {
+      "id": "tc14",
+      "passed": true,
+      "details": {
+        "has_title": true,
+        "has_genre": true,
+        "has_platform": true,
+        "has_reasoning": true
+      },
+      "reply": "Great choice! Based on your interest in an emotional and inspiring drama, I recommend **The Pursuit of Happyness**. \n\n**Genre:** Drama, Biography\n\nThis film tells the true story of Chris Gardner, a struggling salesman who becomes homeless with his young son. It's a powerful tale of perseverance, hope, and the bond between a father and son. I think you'll find it both emotional and uplifting, as it beautifully captures the spirit of never giving up on your dreams.\n\nYou can find it available on Netflix. Enjoy the movie!"
+    },
+    {
+      "id": "tc15",
+      "passed": true,
+      "details": {
+        "has_title": true,
+        "has_genre": true,
+        "has_platform": true,
+        "has_reasoning": true
+      },
+      "reply": "How about **Palm Springs**? It's a fun and fast-paced sci-fi romantic comedy that features a unique time loop concept. The film combines humor with some intriguing twists on time travel, making it a refreshing watch. Plus, it's available on Hulu! Enjoy!"
+    },
+    {
+      "id": "tc16",
+      "passed": true,
+      "details": {
+        "has_title": true,
+        "has_genre": true,
+        "has_platform": true,
+        "has_reasoning": true
+      },
+      "reply": "Sure! How about **The Death of Stalin**? It's a brilliant dark comedy that satirizes the power struggles following the death of the Soviet leader. The humor is both clever and absurd, making it a unique watch. Plus, it's available on Prime Video! Would you like to know more about it?"
+    },
+    {
+      "id": "tc17",
+      "passed": true,
+      "details": {
+        "has_title": true,
+        "has_genre": true,
+        "has_platform": true,
+        "has_reasoning": true
+      },
+      "reply": "I recommend **Hush** (2016). \n\n**Genre:** Horror/Thriller\n\nThis film is a nail-biting suspense experience that runs for just about 80 minutes, making it perfect for your time frame. It follows a deaf writer who must fight for her life when a masked killer appears at her remote home. The tension is palpable, and the unique premise keeps you on the edge of your seat. Plus, it's available on Netflix!\n\nEnjoy your movie night! If you want something different, just let me know!"
+    },
+    {
+      "id": "tc18",
+      "passed": true,
+      "details": {
+        "has_title": true,
+        "has_genre": true,
+        "has_platform": true,
+        "has_reasoning": true
+      },
+      "reply": "Perfect! Based on your preference for a family-friendly animated film that's also interesting for adults, I recommend **Soul**.\n\n**Genre:** Animation, Family, Fantasy\n\n**Why I'm recommending it:** \"Soul\" beautifully explores themes of purpose and passion, making it engaging for both kids and adults. The stunning animation and jazzy soundtrack will captivate everyone, while the deeper messages about life and dreams resonate with older viewers.\n\n**Available on:** Disney+\n\nI hope you enjoy it! Let me know if you'd like more suggestions or if you have any specific preferences!"
+    },
+    {
+      "id": "tc19",
+      "passed": true,
+      "details": {
+        "has_title": true,
+        "has_genre": true,
+        "has_platform": true,
+        "has_reasoning": true
+      },
+      "reply": "Great choice! Based on your mood for something light and fun, I recommend **The Mitchells vs. The Machines**. \n\n**Genre:** Animated Comedy/Adventure\n\nThis movie is a delightful blend of humor and heart, following a quirky family on a road trip that turns into a battle against a robot apocalypse. It's visually stunning and packed with laughs, making it perfect for a light-hearted watch. Plus, it has a great message about family and connection!\n\nYou can find it on **Netflix**. Enjoy!"
+    }
+  ]
+}
